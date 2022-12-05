@@ -9,6 +9,11 @@ as well as the running application.
 
 ## Assignment Requirements
 
+1. Connect a `Database` to a Spring Application
+2. Persist `Employers` and `Skills`
+3. Set up a `One-to-Many` Relationship
+4. Set up a `Many-to-Many` Relationship
+
 ## Unit Tests
 
 The starter code contains 6 unit test classes.
