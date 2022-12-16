@@ -50,7 +50,8 @@ This test class verifies the following:
 
 ### Performance and Code Check:
 
-[Working Demo App](https://techjobs-persistent.launchcodetechnicaltraining.org/)
+Before you start coding, check out our [Working Demo App](https://techjobs-persistent.launchcodetechnicaltraining.org/).
+The app occasionally restarts, so if you experience any issues, please wait a few minutes before refreshing the page.
 
 Use the checks below to explore the working app.
 
